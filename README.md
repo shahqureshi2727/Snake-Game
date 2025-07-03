@@ -25,7 +25,7 @@ This is a classic Snake game built in **C**, focused on practicing low-level pro
 
 2. **Compile the Game**
    ```bash
-   gcc -o snake main.c -lncurses
+   gcc -o snake snake.c -lncurses
    ```
 
 3. **Run the Game**
