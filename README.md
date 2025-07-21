@@ -36,8 +36,3 @@ This is a classic Snake game built in **C**, focused on practicing low-level pro
 ## Controls
 
 - Arrow Keys – Move the snake
-- `q` – Quit the game
-
-## License
-
-This project is licensed under the MIT License.
