@@ -5,9 +5,9 @@ This is a classic Snake game built in **C**, focused on practicing low-level pro
 
 ## Features
 
-- **Real-Time Mechanics**: Smooth and responsive snake movement and collision detection.
+- **Real-Time Mechanics**: Snake movement and collision detection.
 - **Data Structures**: Uses arrays and linked lists to manage the snake's body and game state.
-- **Terminal UI**: Cross-platform interface built using the **ncurses** library.
+- **Terminal UI**: Interface built using the **ncurses** library.
 - **Performance Optimization**: Manages dynamic memory allocation and implements efficient event loops to reduce CPU usage.
 
 ## Requirements
